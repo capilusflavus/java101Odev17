@@ -18,7 +18,7 @@ public class Main {
             }
         }
         
-        System.out.println("3 ve 4'e tam bölünen sayıların ortalaması"+toplam/a);
+        System.out.println("3 ve 4'e tam bölünen sayıların ortalaması = "+toplam/a);
 
     }
 }
